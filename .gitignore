@@ -1,0 +1,8 @@
+*.apk
+apktool_src/
+extracted/
+build/
+*.log
+.DS_Store
+Thumbs.db
+__pycache__/
