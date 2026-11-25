@@ -1,4 +1,5 @@
 *.apk
+*.idsig
 apktool_src/
 extracted/
 build/
